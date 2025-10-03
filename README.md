@@ -1,5 +1,5 @@
 # ChromaBin
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/thebongy/generated-app-20251003-072130)
 **[Live Demo](https://your-deployment-url.pages.dev/)** (Replace with your actual deployment link)
 ChromaBin is a sophisticated, minimalist pastebin application designed for developers and creators. It allows users to effortlessly share text snippets and images through secure, shareable links. The application features automatic syntax highlighting for code, optional password protection for privacy, and customizable expiration times for temporary shares. With a clean, intuitive interface and dedicated 'raw' links for direct content access, ChromaBin prioritizes both aesthetic appeal and functional clarity, making it the perfect tool for quick and beautiful content sharing.
 ## 🖼️ Screenshots
@@ -72,6 +72,6 @@ This project is designed for easy deployment to the Cloudflare network.
     bun run deploy
     ```
 Alternatively, you can deploy directly from your GitHub repository with a single click.
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/thebongy/generated-app-20251003-072130)
 ## 📄 License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
